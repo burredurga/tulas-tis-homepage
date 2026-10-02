@@ -59,3 +59,5 @@ School facts, admission links, and public Tulas imagery reference `tis.edu.in`. 
 - `Cursor` tracks pointer movement only on fine-pointer devices.
 - `Header` owns mobile menu and theme controls.
 - `App` composes the page, sections, and external admission routes.
+
+Deploy trigger
